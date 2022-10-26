@@ -1,15 +1,15 @@
 # 网页信息
-title: MiKit
-author: chzng
-email: chzng@outlook.com
-description: Jekyll theme mikit
+title: FreeProject
+author: Lyove
+email: lyove@outlook.com
+description: Free Project
 
 # 自定义URL
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://chzng.github.io" # the base hostname & protocol for your site
+url: "https://free-project.github.io" # the base hostname & protocol for your site
 
 # 社交链接
-github_username: mi-kit
+github_username: lyove
 rss: rss
 
 
